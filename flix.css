@@ -1,0 +1,54 @@
+.con{
+width: 100%;
+height: 1330px;
+background-color: rgb(179, 179, 1);
+padding: 8px; 
+border: 3px black ;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+}
+.f1{
+    width: 100%;
+    height: 1330px;
+    border: 2px black;
+    font-size: 90px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.g1{
+
+    background-color: green;
+}
+.g2{
+
+    background-color: yellow;
+}
+.g3{
+
+    background-color: blueviolet;
+}
+.g4{
+
+    background-color: slategray;}
+.g5{
+
+    background-color:blue;
+}
+.g6{
+
+    background-color:orange;
+}
+.g7{
+
+    background-color: pink;}
+.g8{
+
+    background-color:rgb(172, 24, 24);
+}
+.g9{
+
+    background-color: rgb(255, 0, 0);
+}
