@@ -1,0 +1,172 @@
+.contenar{
+
+    width: 1440px;
+    height: 700px;
+    background-color:wheat;
+    padding: 8px; 
+    border: 3px black ;
+    display: grid;
+    gap: 10px 35px;
+
+    grid-template-columns: auto auto auto auto auto auto  ;
+    justify-content:stretch;
+}
+.subcon{
+    padding: 8px; 
+    border: 3px black ;
+    display: grid;
+    gap: 3px 6px;
+
+    grid-template-columns: auto auto   ;
+    justify-content:stretch;
+}
+.cdc{
+    width: 100%;
+    height: 100%;
+    padding: 8px; 
+    border: 3px black ;
+    display: grid;
+    gap: 10px 35px;
+    grid-template-columns: auto auto   ;
+    justify-content:stretch;
+}
+
+
+
+.g1{
+
+    background-color: rgb(93, 150, 255);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.f1{
+
+    height: 150px;
+    grid-column: 1/4;
+    background-color: white;
+
+}
+.f2{
+    height: 150px;
+    grid-column: 4/7;
+    background-color: white;
+}
+.f3{
+    height: 150px;
+    grid-column: 7/10;
+    background-color: white;
+
+
+}
+.f4{
+    height: 150px;
+    grid-column: 10/13;
+    background-color: white;
+
+}
+.f5{
+
+    height: 150px;
+    grid-column: 1/4;
+    background-color: white;
+
+}
+.f6{
+    height: 150px;
+    grid-column: 4/7;
+    background-color: white;
+}
+.f7{
+    height: 150px;
+    grid-column: 7/10;
+    background-color: white;
+
+
+}
+.f8{
+    height: 150px;
+    grid-column: 10/13;
+    background-color: white;
+
+}
+.f9{
+
+    height: 150px;
+    grid-column: 1/4;
+    background-color: white;
+
+}
+.f10{
+    height: 150px;
+    grid-column: 4/7;
+    background-color: white;
+}
+.f11{
+    height: 150px;
+    grid-column: 7/10;
+    background-color: white;
+
+
+}
+.f12{
+    height: 150px;
+    grid-column: 10/13;
+    background-color: white;
+
+}
+
+
+
+
+.sub1{
+     height: 60px;
+    grid-column: 1/3;
+    background-color:darkgray;
+
+
+}
+
+.sub2{
+    height: 60px;
+   grid-column: 3/5;
+   background-color:darkgray;
+
+
+}
+.sub3{
+    height: 60px;
+   grid-column: 1/3;
+   background-color:darkgray;
+}
+.sub4{
+    height: 60px;
+   grid-column: 3/5;
+   background-color:darkgray;
+
+
+}
+.A1{
+    grid-column: 1/4;
+    background-color:darkgray;
+    margin-right: 15px;
+}
+.B1{
+    grid-column: 1/4;
+    background-color:darkgray;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.C1{
+grid-row: auto;
+background-color:darkgray;
+margin-bottom: 15px;
+
+}
+.D1{
+    grid-row: auto;
+    background-color:darkgray;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    
+    }
