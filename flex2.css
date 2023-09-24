@@ -1,0 +1,62 @@
+.contener{
+width: 600px;
+height: 600px;
+background-color: rgb(255, 255, 186);
+display: flex;
+align-items: center;
+
+
+
+}
+.sub{
+    width: auto;
+    height: auto;
+    border-radius: 30px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+      
+    
+    
+    }
+.r1{
+width: 20px;
+height: 20px;
+border-radius: 418px;
+
+}
+
+
+
+
+.user-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  
+  }
+  
+  .user {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .user-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  hr{
+    border: 20px black;
+
+    
+
+  }
